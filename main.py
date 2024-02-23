@@ -116,7 +116,7 @@ def send_message():
 	<footer class="footer">
 		<p>&copy; 2024 Roshan Rulex. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
-		<p>Made with Adnan By<a href="https://github.com/SK-BAAP-786</a></p>
+		<p>Made with Adnan By<a href="https://github.com/legendroshan/roshan.git</a></p>
 	</footer>
 </body>
   </html>
