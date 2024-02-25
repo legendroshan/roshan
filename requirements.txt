@@ -1,2 +1,1 @@
-python install flask
-python install requests
+flask
